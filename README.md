@@ -4,7 +4,7 @@
 
 The **Personal Budget and Expense Tracker** is a web-based tool that allows users to log, track, and categorize their expenses. It provides insights into spending patterns with dynamic charts and helps users keep their finances in check. Additionally, this tool includes a **Currency Converter**, enabling users to enter expenses in their preferred currency and view them in real-time converted amounts.
 
-# Deployment Link: https://anushika06.github.io/Expense_Tracker/
+# [Deployment Link](https://anushika06.github.io/Expense_Tracker/)
 
 ## Key Features
 
@@ -38,17 +38,6 @@ The **Personal Budget and Expense Tracker** is a web-based tool that allows user
 
 4. **Currency Converter**: The app allows users to input expenses in their chosen currency. The total amount is converted to different currencies using the **Open Exchange Rates API**.
 
-
-## Installation
-
-To run this project locally:
-
-1. Clone this repository:
-   git clone https://github.com/Anushika06/Expense_Tracker.git
-
-2. Open the project folder in your code editor.
-
-3. Open `index.html` in your browser to start using the tracker.
 
 ## APIs Used
 
